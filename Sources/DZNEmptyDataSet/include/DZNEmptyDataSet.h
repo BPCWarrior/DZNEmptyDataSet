@@ -6,12 +6,11 @@
 //  Copyright © 2017 DZN. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
+#import <Foundation/Foundation.h>
 
 //! Project version number for DZNEmptyDataSet.
 FOUNDATION_EXPORT double DZNEmptyDataSetVersionNumber;
 
 //! Project version string for DZNEmptyDataSet.
 FOUNDATION_EXPORT const unsigned char DZNEmptyDataSetVersionString[];
-
-#import <DZNEmptyDataSet/UIScrollView+EmptyDataSet.h>
